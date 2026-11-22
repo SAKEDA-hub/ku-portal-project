@@ -1,6 +1,6 @@
 # KU Portal
 
-🌐 **Сайт:** https://sakeda-hub.github.io/ku-portal/ (запасной адрес — сервер портала: https://ku-portal.alwaysdata.net)
+🌐 **Сайт:** : https://ku-portal.alwaysdata.net
 
 ## ⬇️ Скачать приложение
 
