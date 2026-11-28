@@ -1,17 +1,17 @@
 # KU Portal
 
-🌐 **Сайт:** : https://ku-portal.alwaysdata.net
+🌐 **Сайт:** https://ku-portal.alwaysdata.net
 
 ## ⬇️ Скачать приложение
 
 | Система | Скачать |
 |---|---|
-| **Windows 10/11** — установщик (рекомендуется) | [KU-Portal-Setup.exe](https://github.com/SAKEDA-hub/ku-portal-project/releases/latest/download/KU-Portal-Setup.exe) |
-| Windows — без установки | [KU-Portal-Portable.exe](https://github.com/SAKEDA-hub/ku-portal-project/releases/latest/download/KU-Portal-Portable.exe) |
-| **Android 7.0+** | [KU-Portal.apk](https://github.com/SAKEDA-hub/ku-portal-project/releases/latest/download/KU-Portal.apk) |
-| macOS — Apple Silicon (M1–M4) | [KU-Portal-mac-arm64.dmg](https://github.com/SAKEDA-hub/ku-portal-project/releases/latest/download/KU-Portal-mac-arm64.dmg) |
-| macOS — Intel | [KU-Portal-mac-x64.dmg](https://github.com/SAKEDA-hub/ku-portal-project/releases/latest/download/KU-Portal-mac-x64.dmg) |
-| Linux | [KU-Portal-linux.AppImage](https://github.com/SAKEDA-hub/ku-portal-project/releases/latest/download/KU-Portal-linux.AppImage) |
+| **Windows 10/11** — установщик (рекомендуется) | [KU-Portal-Setup.exe](https://github.com/SAKEDA-hub/ku-portal-desktop/releases/latest/download/KU-Portal-Setup.exe) |
+| Windows — без установки | [KU-Portal-Portable.exe](https://github.com/SAKEDA-hub/ku-portal-desktop/releases/latest/download/KU-Portal-Portable.exe) |
+| **Android 7.0+** | [KU-Portal.apk](https://github.com/SAKEDA-hub/ku-portal-desktop/releases/latest/download/KU-Portal.apk) |
+| macOS — Apple Silicon (M1–M4) | [KU-Portal-mac-arm64.dmg](https://github.com/SAKEDA-hub/ku-portal-desktop/releases/latest/download/KU-Portal-mac-arm64.dmg) |
+| macOS — Intel | [KU-Portal-mac-x64.dmg](https://github.com/SAKEDA-hub/ku-portal-desktop/releases/latest/download/KU-Portal-mac-x64.dmg) |
+| Linux | [KU-Portal-linux.AppImage](https://github.com/SAKEDA-hub/ku-portal-desktop/releases/latest/download/KU-Portal-linux.AppImage) |
 
 Ссылки всегда ведут на самую свежую версию. Приложения открывают сайт портала — аккаунт и данные те же.
 
